@@ -1,2 +1,3 @@
 # hello-world
-Practice
+print "Hello\n";
+#  I think I get this, let's see.
